@@ -12,3 +12,10 @@ git init
   28 rm testing.py                                                              
   29 git status                                                                 
   30 git restore testing.py  
+                                                    
+  14 git remote -v                                                              
+  15  git remote set-url origin https://ghp_tSkUkMVL61MsF0hxsjzHpnvaHRXiRN3pq...                                                                                                               
+  18 git status                                                                 
+  19 git push origin main 
+
+  git clone https://github.com/Krrish-chandegara/github_for_devops_workshop.git
